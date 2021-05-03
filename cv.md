@@ -6,7 +6,7 @@ skype: *artur.drabinko*
 ## Summary
 I am interesting in Apple ecosystem and want to design complex applications.
 ## Skills
-PHP, ARKit, Maps.
+PHP, JavaScript, Laravel, Symfony, React.js.
 ## Experience
 RS 2018 Q1 / Minsk
 ## Education
